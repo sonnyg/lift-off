@@ -1,0 +1,67 @@
+/* Styles go here */
+
+#mainCanvas {
+  width: 400px;
+  height: 400px;
+}
+
+.panel {
+  /*margin: 0 auto;*/
+  padding: 8px;
+  /*align-self: center;*/
+  border-radius: 8px;
+  /*overflow: hidden;*/
+}
+
+.center-text {
+  text-align: center;
+}
+
+.content-size {
+  display: inline-block;
+}
+
+.border-dark {
+  border: solid 2px black;
+}
+
+.border-light {
+  border: solid 2px #e7e7e7;
+}
+
+.dark-background {
+  background-color: gray;
+}
+
+.launch-button {
+    background-color: #4CAF50; /* Green */
+    border: 2px solid white;
+    border-radius: 8px;
+    box-shadow: 0 9px #999999;   /* button "height" */
+    color: white;
+
+    display: inline-block;
+    font-size: 16px;
+
+    outline: none;
+    padding: 14px 32px;
+    text-align: center;
+    text-decoration: none;
+
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.launch-button:hover {
+  border: 2px solid orange;
+  background-color: #008cba; /* blue */
+  color: white;
+}
+
+.launch-button:active {
+  /*background-color: #f44336; /* red */
+  box-shadow: 0 5px #666;
+  color: #f44336; /* red */
+  /*color: yellow;*/
+  transform: translateY(4px);
+}
