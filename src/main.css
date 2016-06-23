@@ -3,6 +3,7 @@
 #mainCanvas {
   width: 400px;
   height: 400px;
+  background: black;
 }
 
 .panel {
@@ -39,7 +40,8 @@
     border-radius: 8px;
     box-shadow: 0 9px #999999;   /* button "height" */
     color: white;
-
+    cursor: pointer;
+    
     display: inline-block;
     font-size: 16px;
 
