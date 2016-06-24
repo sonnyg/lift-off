@@ -16,7 +16,7 @@ Goals of project:
 2. Introduce some development best practices
   - VCS (using git)
   - Dev diary (in the form of a README)
-  - 
+  -
 Thoughts on how to organize exercise:
 
 1. Start with HTML layout
@@ -30,3 +30,8 @@ Thoughts on how to organize exercise:
   - Move to in-file
   - Move to external file
 3.
+
+## Lessons
+
+- [Lesson 1](lesson-01/guide.md) - getting Started
+- [lesson 2](lesson-02/guide.md) - **very** basic HTML
