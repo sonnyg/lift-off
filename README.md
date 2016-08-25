@@ -35,3 +35,6 @@ Thoughts on how to organize exercise:
 
 - [Lesson 1](lesson-01/guide.md) - getting Started
 - [lesson 2](lesson-02/guide.md) - **very** basic HTML
+
+
+when doing the lesson for drawing the rocket, refer to this [MDN link](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes).
