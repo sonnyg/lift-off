@@ -38,3 +38,9 @@ Thoughts on how to organize exercise:
 
 
 when doing the lesson for drawing the rocket, refer to this [MDN link](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes).
+
+## Current Progress
+
+I think I was overly ambitious and planned too much with this project. Going from very basic computer usage and trying to include this much animation code was a LOT to take in. Simply launching a rocket would have been sufficient. Although, I have to say that my kids were SUPER excited to see it all in action. My apologies for the state of this code. Paired programming with a 9 and 14 year old tends to get a *little* crazy.
+
+- I have wrapped up the project with the kids but I still need to organize this project for others. So many things to do!
