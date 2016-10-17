@@ -5,21 +5,12 @@ buttonId = 'launch-button',
 startTime = null,
 rocket;
 
-window.onload = onLoad; //function () {
-  // document.body.onload = onload;
-// }
-
-function onLoad() {
+window.onload = function onLoad() {
     log(`page loaded`);
 
     rocket = createRocket();
 
     drawScene();
-    // var canvas = document.getElementById(canvasId);
-    // var context = canvas.getContext('2d');
-
-    // context.translate(context.width/2 - 30, context.height - 120);
-    // drawRocket(context);
 }
 
 function createRocket() {
